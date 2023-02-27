@@ -1,15 +1,15 @@
-##!**Project documentation:**
-
+##!**Project documentation:**  
 1\. Mind Map  
 2\. RTM  
 3\. TEST CASES  
 4\. Checklist ("PatriotShop" Project Testing)  
 5\. BUG REPORTS  
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/0cfb1e8fb42b9f82e3ac2433562f9ec1223536bd606f5df2.png)  
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/647fa6a86eec2d73cf0c1c5d7e075a19bbbf64b65044b0b3.png)  
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/2816cda8a6cdacadcdc7ca6fb957d502665d64d945702eb0.png)  
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/f3162acaa63d22692b03535aaaa8e8ff510110535b2982c0.png)  
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/00dc37b389ccfa4945a5509f92c627f952af2a92da334a80.png)  
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/276260403297fd93a2487911586a83f45623e1355b71eb2d.png)  
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/c6a6ea9fd1925acdf8c9ef6ca51441004837b9d1c8a47d50.png)  
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/9b9649ffb7ed5df70b9943c6d7901867416d8585934b902d.png)
+![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/6884e34f6474599579619926a536f17793aea501541faf92.png)  
+![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/56c18f83529fc2add5894224de5fe766a4da2e43f96d4389.png)  
+![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/f137a5eb187c4c1f2909209fb78bbe610fce3fa9a1f51312.png)  
+![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/44f55b23bf200d50cc4f44ed4a6a80150787eea64610350f.png)  
+![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/438e3e72d748280834a0243dd3615dac7515168b7a14746c.png)  
+![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/b68c1bd6f1189ca3d08be0942aaa808aa1e0286fc2f6ac67.png)  
+![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/467dd1fbdcf0ad607591a61246105ce0a6ec27f9c9d7766d.png)  
+![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/d45bd36b19fb19ebb7d1716977257a4a72093fa0dcbf7b17.png)  
+![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/d84e382c34bc125eb18ff8b45113a1f522c399b927584f09.png)
