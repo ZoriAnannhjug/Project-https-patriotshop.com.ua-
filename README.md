@@ -6,3 +6,4 @@
 4\. Checklist ("PatriotShop" Project Testing)  
 5\. BUG REPORTS  
 6\. Also includes links to documentation
+[Project documentation](Project.md)
